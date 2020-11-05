@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../DL202010_Lab08/Lab08/systemverilog/mux2.sv" \
+"../../../../systemverilog/show_2c.sv" \
+"../../../../systemverilog/show_2c_test.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
