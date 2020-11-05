@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2020.11.4)  4 NOV 2020 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2020.11.4)  4 NOV 2020 20:12
 entering extended mode
 **./2137_report_Lab10.tex
 (2137_report_Lab10.tex
@@ -365,29 +365,6 @@ LaTeX Info: Redefining \nameref on input line 62.
 \openout3 = `2137_report_Lab10.out'.
 
 \c@lstlisting=\count119
-
-! Undefined control sequence.
-\@title ->ELC 2137 Lab \1
-                         \0: 7-segment Display with Time-DivisionMultiplexing
-l.68 \section
-             *{Summary}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@title ->ELC 2137 Lab \1\0
-                           : 7-segment Display with Time-DivisionMultiplexing
-l.68 \section
-             *{Summary}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -397,13 +374,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <counter_sim.png, id=3, 1445.4pt x 872.50969pt>
 File: counter_sim.png Graphic file (type png)
 <use counter_sim.png>
-Package pdftex.def Info: counter_sim.png  used on input line 77.
+Package pdftex.def Info: counter_sim.png  used on input line 78.
 (pdftex.def)             Requested size: 469.75502pt x 109.5619pt.
 <show_2c_sim.png, id=6, 1445.4pt x 871.75688pt>
 File: show_2c_sim.png Graphic file (type png)
 <use show_2c_sim.png>
-Package pdftex.def Info: show_2c_sim.png  used on input line 82.
+Package pdftex.def Info: show_2c_sim.png  used on input line 83.
 (pdftex.def)             Requested size: 469.75502pt x 109.11592pt.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -414,7 +392,7 @@ File: lstlang2.sty 2015/06/04 1.6 listings language file
 File: lstlang3.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 89.
+nput line 90.
 
 (Lab10/systemverilog/counter.sv
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
@@ -493,10 +471,10 @@ you'd better type `E' or `X' now and fix your file.
  
 Here is how much of TeX's memory you used:
  8085 strings out of 493308
- 117956 string characters out of 3138738
- 303391 words of memory out of 3000000
+ 117868 string characters out of 3138738
+ 303393 words of memory out of 3000000
  11338 multiletter control sequences out of 15000+200000
  7748 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,7n,52p,261b,1959s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,7n,52p,261b,1959s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
