@@ -2,21 +2,22 @@
 # Vivado v2020.1 (64-bit)
 # SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
 # IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
-# Start of session at: Wed Nov  4 20:16:07 2020
-# Process ID: 19080
-# Current directory: H:/Lab10B/Lab10
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16676 H:\Lab10B\Lab10\Lab10.xpr
-# Log file: H:/Lab10B/Lab10/vivado.log
-# Journal file: H:/Lab10B/Lab10\vivado.jou
+# Start of session at: Wed Nov  4 20:06:29 2020
+# Process ID: 5340
+# Current directory: H:/DL202010_Lab10/Lab10
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17340 H:\DL202010_Lab10\Lab10\Lab10.xpr
+# Log file: H:/DL202010_Lab10/Lab10/vivado.log
+# Journal file: H:/DL202010_Lab10/Lab10\vivado.jou
 #-----------------------------------------------------------
-start_guioopen_project H:/Lab10B/Lab10/Lab10.xpr
-INFO: [Project 1-313] Project file moved from 'H:/DL202010_Lab10/Lab10' since last save.
+start_gui
+open_project H:/DL202010_Lab10/Lab10/Lab10.xpr
 Scanning sources...
 Finished scanning sources
 CRITICAL WARNING: [Board 49-67] The board_part definition was not found for digilentinc.com:basys3:part0:1.1. This can happen sometimes when you use custom board part. You can resolve this issue by setting 'board.repoPaths' parameter, pointing to the location of custom board files. Valid board_part values can be retrieved with the 'get_board_parts' Tcl command.
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/XilinxVitis/Vivado/2020.1/data/ip'.
-open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:12 . Memory (MB): peak = 1096.637 ; gain = 0.000
-update_compile_order -fileset sources_1eexit
-INFO: [Common 17-206] Exiting Vivado at Wed Nov  4 20:39:12 2020...
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:10 . Memory (MB): peak = 1093.359 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Nov  4 20:07:15 2020...

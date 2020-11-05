@@ -2,13 +2,11 @@
 # Vivado v2020.1 (64-bit)
 # SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
 # IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
-# Start of session at: Wed Nov  4 20:06:29 2020
-# Process ID: 5340
-# Current directory: H:/DL202010_Lab10/Lab10
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17340 H:\DL202010_Lab10\Lab10\Lab10.xpr
-# Log file: H:/DL202010_Lab10/Lab10/vivado.log
-# Journal file: H:/DL202010_Lab10/Lab10\vivado.jou
+# Start of session at: Wed Nov  4 20:16:07 2020
+# Process ID: 19080
+# Current directory: H:/Lab10B/Lab10
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16676 H:\Lab10B\Lab10\Lab10.xpr
+# Log file: H:/Lab10B/Lab10/vivado.log
+# Journal file: H:/Lab10B/Lab10\vivado.jou
 #-----------------------------------------------------------
-start_gui
-open_project H:/DL202010_Lab10/Lab10/Lab10.xpr
-update_compile_order -fileset sources_1
+start_guioopen_project H:/Lab10B/Lab10/Lab10.xpruupdate_compile_order -fileset sources_1

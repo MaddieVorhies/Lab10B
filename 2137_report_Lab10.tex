@@ -61,14 +61,14 @@
 %=========== Body  ====================================
 \begin{document}
 
-\title{ELC 2137 Lab 10: 7-segment Display with Time-DivisionMultiplexing}
+\title{ELC 2137 Lab 10: 7-segment Display with Time-Division Multiplexing}
 \author{Maddie Vorhies}
 
 \maketitle
 
 \section*{Summary}
 
-Type the summary of your experiment and results here.  
+The goal of this lab was to use lab 8 and lab 9 and put them together to create a 7-segment display with time- division multiplexing. In order to do this, I needed the top9 module from lab 9 and I needed the sseg4 from lab 8. In addition to it, I also created a counter and a show2c. The counter has a timer that is used to get a short pulse when the counter reaches its maximum value. The show2c is used to output the 2's compliment of the incoming number. To check the counter and the show2c, I created a testbench. Once the testbench was successfully executed, I was able to combine the top9 from lab 9, the sseg4 from lab 8, and the counter and show2c from lab 10 to create a mini calculator. The calculator is able to add and subtract. If needed, it will display a negative number on the board. I tested my board to make sure that it worked and I was successfully able to output both a positive and a negative number.  
 
 
 \section*{Results}
@@ -79,9 +79,24 @@ Type the summary of your experiment and results here.
 \end{figure}
 
 \begin{figure}[ht]\centering
-	\caption{Simulation Waveform for show2c (N = 20)}
+	\caption{Simulation Waveform for show2c}
 	\includegraphics [width=1\textwidth,trim=640 550 10 135, clip]{show_2c_sim}
 \end{figure}
+
+\begin{figure}[ht]\centering
+	\caption{4-digits at full strength and no blinking (N = 20)}
+	\includegraphics [width=0.75\textwidth,trim=0 0 0 0, clip]{pic1}
+\end{figure}
+
+\begin{table}[h]\centering
+	\begin{tabular}{cc}
+		Positive number & Negative Number \\
+		\includegraphics [width=0.5\textwidth,trim=0 0 0 0, clip]{pic2} &
+		\includegraphics [width=0.55\textwidth,trim=0 0 0 0, clip]{pic3} \\
+	\end{tabular}
+	\caption{Board Pictures}
+	\label{fig:sim_with_table}
+\end{table}
 
 
 
@@ -97,7 +112,7 @@ Type the summary of your experiment and results here.
 
 \Verilog{Lab10/systemverilog/wrapper.sv}
 
-\Verilog{Lab10/systemverilog/top_lab10.sv
+\Verilog{Lab10/systemverilog/top_lab10.sv}
 
 
 \end{document}

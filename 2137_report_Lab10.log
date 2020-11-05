@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2020.11.4)  4 NOV 2020 20:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2020.11.4)  4 NOV 2020 20:38
 entering extended mode
 **./2137_report_Lab10.tex
 (2137_report_Lab10.tex
@@ -381,8 +381,36 @@ File: show_2c_sim.png Graphic file (type png)
 <use show_2c_sim.png>
 Package pdftex.def Info: show_2c_sim.png  used on input line 83.
 (pdftex.def)             Requested size: 469.75502pt x 109.11592pt.
+<pic1.jpg, id=8, 3035.34pt x 1852.9225pt>
+File: pic1.jpg Graphic file (type jpg)
+<use pic1.jpg>
+Package pdftex.def Info: pic1.jpg  used on input line 88.
+(pdftex.def)             Requested size: 352.31625pt x 215.0466pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 92.
+<pic2.jpg, id=10, 3035.34pt x 2228.325pt>
+File: pic2.jpg Graphic file (type jpg)
+<use pic2.jpg>
+Package pdftex.def Info: pic2.jpg  used on input line 94.
+(pdftex.def)             Requested size: 234.8775pt x 172.42139pt.
+<pic3.jpg, id=12, 3035.34pt x 2029.5825pt>
+File: pic3.jpg Graphic file (type jpg)
+<use pic3.jpg>
+Package pdftex.def Info: pic3.jpg  used on input line 95.
+(pdftex.def)             Requested size: 258.36668pt x 172.74449pt.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+Overfull \hbox (47.48917pt too wide) in paragraph at lines 92--97
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+{C:/Users/Maddie_Vorhies1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <.
+/counter_sim.png>] [2 <./show_2c_sim.png> <./pic1.jpg> <./pic2.jpg> <./pic3.jpg
+>] ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
@@ -392,7 +420,7 @@ File: lstlang2.sty 2015/06/04 1.6 listings language file
 File: lstlang3.sty 2015/06/04 1.6 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 90.
+nput line 105.
 
 (Lab10/systemverilog/counter.sv
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
@@ -402,10 +430,7 @@ Overfull \hbox (54.244pt too wide) in paragraph at lines 2--3
 [][][][] 
  []
 
-[1
 
-{C:/Users/Maddie_Vorhies1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <.
-/counter_sim.png> <./show_2c_sim.png>]
 Overfull \hbox (54.244pt too wide) in paragraph at lines 20--23
 [][][][] 
  []
@@ -415,7 +440,9 @@ Overfull \hbox (54.244pt too wide) in paragraph at lines 2--3
 [][][][] 
  []
 
-[2]
+[3
+
+]
 Overfull \hbox (54.244pt too wide) in paragraph at lines 20--23
 [][][][] 
  []
@@ -425,7 +452,7 @@ Overfull \hbox (54.244pt too wide) in paragraph at lines 2--3
 [][][][] 
  []
 
-[3]
+[4]
 Overfull \hbox (54.244pt too wide) in paragraph at lines 20--23
 [][][][] 
  []
@@ -435,7 +462,7 @@ Overfull \hbox (54.244pt too wide) in paragraph at lines 2--3
 [][][][] 
  []
 
-[4]
+[5]
 Overfull \hbox (54.244pt too wide) in paragraph at lines 20--23
 [][][][] 
  []
@@ -445,36 +472,48 @@ Overfull \hbox (54.244pt too wide) in paragraph at lines 2--3
 [][][][] 
  []
 
-
+[6]
 Overfull \hbox (54.244pt too wide) in paragraph at lines 20--23
 [][][][] 
  []
 
-[5]))
-Runaway argument?
-{Lab10/systemverilog/top_lab10.sv \par \par \end {document} 
-! File ended while scanning use of \\Verilog.
-<inserted text> 
-                \par 
-<*> ./2137_report_Lab10.tex
-                           
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+) (Lab10/systemverilog/top_lab10.sv
+Overfull \hbox (54.244pt too wide) in paragraph at lines 2--3
+[][][][] 
+ []
 
-! Emergency stop.
-<*> ./2137_report_Lab10.tex
-                           
-*** (job aborted, no legal \end found)
+[7]
+Overfull \hbox (54.244pt too wide) in paragraph at lines 20--23
+[][][][] 
+ []
 
- 
+[8])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
+ [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
+ (2137_report_Lab10.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package rerunfilecheck Info: File `2137_report_Lab10.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
+ ) 
 Here is how much of TeX's memory you used:
- 8085 strings out of 493308
- 117868 string characters out of 3138738
- 303393 words of memory out of 3000000
- 11338 multiletter control sequences out of 15000+200000
- 7748 words of font info for 28 fonts, out of 3000000 for 9000
+ 8235 strings out of 493308
+ 119998 string characters out of 3138738
+ 298899 words of memory out of 3000000
+ 11369 multiletter control sequences out of 15000+200000
+ 8364 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,7n,52p,261b,1959s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 32i,12n,52p,951b,1761s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on 2137_report_Lab10.pdf (9 pages, 3814760 bytes).
+PDF statistics:
+ 460 PDF objects out of 1000 (max. 8388607)
+ 322 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
